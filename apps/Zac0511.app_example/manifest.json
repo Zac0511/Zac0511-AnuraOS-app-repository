@@ -1,0 +1,9 @@
+{
+    "name": "Example app",
+    "summary": "(tiny app description)",
+    "desc": "(longer app description)",
+    "package": "Zac0511.example_app",
+    "data": "app.zip",
+    "version": "1.0.0",
+    "category": "tools"
+}
