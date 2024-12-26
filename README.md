@@ -9,3 +9,7 @@ An [AnuraOS](https://anura.pro) app repository for Zac0511's apps
 4. Click OK
 
 You are now able to download apps from this repo.
+
+## Apps
+List of apps included in this repository :
+* [Example app](./apps/Zac0511.app_example)
