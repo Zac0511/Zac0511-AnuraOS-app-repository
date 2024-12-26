@@ -1,5 +1,5 @@
 # Zac0511's AnuraOS app repository
-An AnuraOS app repository for Zac0511's apps
+An [AnuraOS](https://anura.pro) app repository for Zac0511's apps
 
 ## How to add repo in AnuraOS
 
